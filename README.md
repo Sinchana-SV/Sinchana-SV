@@ -16,8 +16,6 @@ You can learn more about the program <a href="https://imarticus.org/home_new/">h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sinchana-SV&label=Profile%20views&color=0e75b6&style=flat" alt="Sinchana-SV" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sinchana-SV" alt="Sinchana-SV" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
